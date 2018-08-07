@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0fb5bf6-ff0a-4b18-a47e-db2973da967b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example4.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,32 +31,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="430" />
+          <entry key="html" value="521" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="430" />
+          <entry key="HTML" value="521" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Example3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="7" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Example4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="287">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -77,8 +76,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Example4.html" />
         <option value="$PROJECT_DIR$/Example3.html" />
+        <option value="$PROJECT_DIR$/Example4.html" />
       </list>
     </option>
   </component>
@@ -116,6 +115,11 @@
               <item name="html-set-tables1b-cgarciapieto" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-set-tables1b-cgarciapieto" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="html-set-tables1b-cgarciapieto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-set-tables1b-cgarciapieto" type="462c0819:PsiDirectoryNode" />
+              <item name="ImagesForExample3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,8 +153,12 @@
     <configuration name="Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-set-tables1b-cgarciapieto/Example3.html">
       <method v="2" />
     </configuration>
+    <configuration name="Example4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-set-tables1b-cgarciapieto/Example4.html">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Example4.html" />
         <item itemvalue="JavaScript Debug.Example3.html" />
       </list>
     </recent_temporary>
@@ -204,17 +212,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Example4.html">
+    <entry file="file://$PROJECT_DIR$/Example3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="7" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Example3.html">
+    <entry file="file://$PROJECT_DIR$/Example4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="287">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
